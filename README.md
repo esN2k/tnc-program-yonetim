@@ -2,6 +2,10 @@
 
 Mesleki gelişim programları için etkinlik ve katılımcı takip uygulaması. Bu proje **Social Office / TNC Group Yapay Zeka Mesleki Gelişim Programı**'nın "Web Geliştirme; Yapay Zeka" eğitimi kapsamında hazırlanmıştır.
 
+🔗 **Canlı demo:** https://unrivaled-alfajores-49cad6.netlify.app
+
+![Ekran görüntüsü](screenshots/ekran-goruntusu.png)
+
 ## Fikir
 
 Programın kendisini (tanışma toplantıları, eğitim oturumları, proje sunumları) modelleyen küçük bir etkinlik yönetim sistemi: her etkinliğe kimlerin kayıtlı olduğunu, kimin katıldığını/katılmadığını takip eden ilişkisel bir mini CRM.
